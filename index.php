@@ -12,7 +12,7 @@ $Welcome       = "Minha Rotina";
 //Data
 
 $dia           = ('15/09/2022');
-$hora          = 8;
+$hora          = 7;
 
 //acoes rotineiras
 
